@@ -1,2 +1,4 @@
-# next-redux-express
-NextJs app with redux and express integrated
+## How to use
+
+1. npm install
+2. npm run dev
